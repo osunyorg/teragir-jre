@@ -7,15 +7,15 @@ items:
   kind: url
   new_tab: false
   children:
-  - title: Édition 2025
-    slug: edition-2025
+  - title: Palmarès 2025
+    slug: palmares-2025
     target: "/projets/2025-ledition-2025/"
     kind: url
     new_tab: false
     children: []
     descendants_targets: []
-  - title: Édition 2024
-    slug: edition-2024
+  - title: Palmarès 2024
+    slug: palmares-2024
     target: "/projets/2024-ledition-2024/"
     kind: url
     new_tab: false

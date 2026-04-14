@@ -11,3 +11,7 @@ params:
   home:
     head:
       title: site
+  organizations:
+    index:
+      taxonomies:
+        display: false

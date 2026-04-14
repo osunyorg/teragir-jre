@@ -17,11 +17,4 @@ items:
   descendants_targets: []
   path: "/pages/qui-sommes-nous"
   file: content/fr/pages/qui-sommes-nous/_index.html
-- title: Présentation
-  slug: presentation
-  target: ''
-  kind: blank
-  new_tab: false
-  children: []
-  descendants_targets: []
 

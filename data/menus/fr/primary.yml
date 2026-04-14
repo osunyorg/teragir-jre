@@ -10,20 +10,29 @@ items:
   descendants_targets: []
 - title: Qui sommes-nous ?
   slug: qui-sommes-nous
-  target: "/qui-sommes-nous/"
+  target: "/presentation/qui-sommes-nous/"
   kind: page
   new_tab: false
   children: []
   descendants_targets: []
-  path: "/pages/qui-sommes-nous"
-  file: content/fr/pages/qui-sommes-nous/_index.html
+  path: "/pages/presentation/qui-sommes-nous"
+  file: content/fr/pages/presentation/qui-sommes-nous/_index.html
 - title: Soutiens et partenaires
   slug: soutiens-et-partenaires
-  target: "/organisations/"
+  target: "/soutiens-et-partenaires/"
   kind: page
   new_tab: false
   children: []
   descendants_targets: []
   path: "/organizations"
   file: content/fr/organizations/_index.html
+- title: Le concours
+  slug: le-concours
+  target: "/presentation/le-concours/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/presentation/le-concours"
+  file: content/fr/pages/presentation/le-concours/_index.html
 

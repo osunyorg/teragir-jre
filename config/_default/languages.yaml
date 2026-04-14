@@ -2,13 +2,34 @@
 
 fr:
   title: >-
-    jre
+    Jeunes reporters pour l'environnement
   contentDir: content/fr
   languageCode: fr
   languageName: Français
   buildFuture: true
   params:
     contact_details:
+      social_networks:
+        facebook:
+          label: >-
+            jeunesreporterspourlenvironnement?hc_ref=ARSU3QD01O5Jt2hVz1JgUUaPJyNQuIpjXqWGTuwA8Vpe2yiZFH_7ReFY-rRs37OgEXI&__tn__=kC-R
+          value: >-
+            https://www.facebook.com/jeunesreporterspourlenvironnement?hc_ref=ARSU3QD01O5Jt2hVz1JgUUaPJyNQuIpjXqWGTuwA8Vpe2yiZFH_7ReFY-rRs37OgEXI&__tn__=kC-R
+        instagram:
+          label: >-
+            jre.france
+          value: >-
+            https://instagram.com/jre.france
+        linkedin:
+          label: >-
+            linkedin.comshowcasejeunes-reporters-environnement
+          value: >-
+            https://www.linkedin.com/showcase/jeunes-reporters-environnement/
+        youtube:
+          label: >-
+            channelUCxOsBkv7wuwDxnpfP9nNydg
+          value: >-
+            https://www.youtube.com/@channelUCxOsBkv7wuwDxnpfP9nNydg
 
   taxonomies:
     administrator: administrators

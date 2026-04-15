@@ -7,23 +7,27 @@ items:
   kind: page
   new_tab: false
   children:
-  - title: Palmarès 2025
-    slug: palmares-2025
-    target: "/projets/2025-ledition-2025/"
-    kind: url
-    new_tab: false
-    children: []
-    descendants_targets: []
   - title: Palmarès 2024
     slug: palmares-2024
-    target: "/projets/2024-ledition-2024/"
-    kind: url
+    target: "/dernieres-editions/edition-2024/"
+    kind: page
     new_tab: false
     children: []
     descendants_targets: []
+    path: "/pages/dernieres-editions/edition-2024"
+    file: content/fr/pages/dernieres-editions/edition-2024/_index.html
+  - title: Palmarès 2025
+    slug: palmares-2025
+    target: "/dernieres-editions/edition-2025/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/dernieres-editions/edition-2025"
+    file: content/fr/pages/dernieres-editions/edition-2025/_index.html
   descendants_targets:
-  - "/projets/2024-ledition-2024/"
-  - "/projets/2025-ledition-2025/"
+  - "/dernieres-editions/edition-2024/"
+  - "/dernieres-editions/edition-2025/"
   path: "/pages/dernieres-editions"
   file: content/fr/pages/dernieres-editions/_index.html
 - title: Qui sommes-nous ?

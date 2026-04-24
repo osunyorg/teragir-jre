@@ -15,90 +15,90 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/edition-2025/"
+from = "/edition-2025/index.html"
 to = "/dernieres-editions/edition-2025/"
 
 [[redirects]]
-from = "/projets/thematique/biodiversite/"
+from = "/projets/thematique/biodiversite/index.html"
 to = "/reportages/thematique/biodiversite/"
 
 [[redirects]]
-from = "/projets/concours-et-prix/concours-general/"
+from = "/projets/concours-et-prix/concours-general/index.html"
 to = "/reportages/concours-et-prix/concours-general/"
 
 [[redirects]]
-from = "/organisations/"
+from = "/organisations/index.html"
 to = "/soutiens-et-partenaires/"
 
 [[redirects]]
-from = "/organisations/categories/institutionnels-financiers/"
+from = "/organisations/categories/institutionnels-financiers/index.html"
 to = "/soutiens-et-partenaires/categories/institutionnels-financiers/"
 
 [[redirects]]
-from = "/projets/concours-et-prix/"
+from = "/projets/concours-et-prix/index.html"
 to = "/reportages/concours-et-prix/"
 
 [[redirects]]
-from = "/organisations/ademe/"
+from = "/organisations/ademe/index.html"
 to = "/soutiens-et-partenaires/ademe/"
 
 [[redirects]]
-from = "/projets/thematique/"
+from = "/projets/thematique/index.html"
 to = "/reportages/thematique/"
 
 [[redirects]]
-from = "/organisations/categories/techniques/"
+from = "/organisations/categories/techniques/index.html"
 to = "/soutiens-et-partenaires/categories/techniques/"
 
 [[redirects]]
-from = "/organisations/agence-francaise-de-developpement/"
+from = "/organisations/agence-francaise-de-developpement/index.html"
 to = "/soutiens-et-partenaires/agence-francaise-de-developpement/"
 
 [[redirects]]
-from = "/projets/categories/19-25-ans-filiere-journalisme/"
+from = "/projets/categories/19-25-ans-filiere-journalisme/index.html"
 to = "/reportages/categories/19-25-ans-filiere-journalisme/"
 
 [[redirects]]
-from = "/qui-sommes-nous/"
+from = "/qui-sommes-nous/index.html"
 to = "/presentation/qui-sommes-nous/"
 
 [[redirects]]
-from = "/organisations/office-francais-de-la-biodiversite/"
+from = "/organisations/office-francais-de-la-biodiversite/index.html"
 to = "/soutiens-et-partenaires/office-francais-de-la-biodiversite/"
 
 [[redirects]]
-from = "/projets/reportages/"
+from = "/projets/reportages/index.html"
 to = "/reportages/reportages/"
 
 [[redirects]]
-from = "/le-concours/"
+from = "/le-concours/index.html"
 to = "/presentation/le-concours/"
 
 [[redirects]]
-from = "/projets/thematique/alimentation/"
+from = "/projets/thematique/alimentation/index.html"
 to = "/reportages/thematique/alimentation/"
 
 [[redirects]]
-from = "/projets/2025-au-restaurant-etoile-de-nieuwe-winkel-la-gastronomie-botanique-pour-sauver-la-planete/"
+from = "/projets/2025-au-restaurant-etoile-de-nieuwe-winkel-la-gastronomie-botanique-pour-sauver-la-planete/index.html"
 to = "/reportages/2025-au-restaurant-etoile-de-nieuwe-winkel-la-gastronomie-botanique-pour-sauver-la-planete/"
 
 [[redirects]]
-from = "/projets/"
+from = "/projets/index.html"
 to = "/reportages/"
 
 [[redirects]]
-from = "/projets/categories/19-25-ans-hors-filiere-journalisme/"
+from = "/projets/categories/19-25-ans-hors-filiere-journalisme/index.html"
 to = "/reportages/categories/19-25-ans-hors-filiere-journalisme/"
 
 [[redirects]]
-from = "/projets/categories/"
+from = "/projets/categories/index.html"
 to = "/reportages/categories/"
 
 [[redirects]]
-from = "/projets/reportages/video/"
+from = "/projets/reportages/video/index.html"
 to = "/reportages/reportages/video/"
 
 [[redirects]]
-from = "/projets/2025-une-ile-paradisiaque-menacee-par-des-chevres-un-defi-ecologique/"
+from = "/projets/2025-une-ile-paradisiaque-menacee-par-des-chevres-un-defi-ecologique/index.html"
 to = "/reportages/2025-une-ile-paradisiaque-menacee-par-des-chevres-un-defi-ecologique/"
 

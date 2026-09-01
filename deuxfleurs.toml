@@ -83,6 +83,10 @@ from = "/projets/2025-au-restaurant-etoile-de-nieuwe-winkel-la-gastronomie-botan
 to = "/reportages/2025-au-restaurant-etoile-de-nieuwe-winkel-la-gastronomie-botanique-pour-sauver-la-planete/"
 
 [[redirects]]
+from = "/fichiers/2026/index.html"
+to = "/fichiers/2026/emma-theobald-de-nieuwe-winkel-cuisine-botanique-article-jre-compressedpdf/"
+
+[[redirects]]
 from = "/projets/index.html"
 to = "/reportages/"
 

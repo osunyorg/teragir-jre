@@ -57,13 +57,18 @@ image:
 
 
 children:
+  - "persons/_index.html"
   - "posts/_index.html"
   - "projects/_index.html"
   - "organizations/_index.html"
-  - "persons/_index.html"
   - "pages/presentation/_index.html"
   - "pages/dernieres-editions/_index.html"
+  - "files/_index.html"
 child_pages:
+  - permalink: "/personnes/"
+    path: "/persons"
+    slug: "personnes"
+    file: "content/fr/persons/_index.html"
   - permalink: "/actualites/"
     path: "/posts"
     slug: "actualites"
@@ -76,10 +81,6 @@ child_pages:
     path: "/organizations"
     slug: "soutiens-et-partenaires"
     file: "content/fr/organizations/_index.html"
-  - permalink: "/personnes/"
-    path: "/persons"
-    slug: "personnes"
-    file: "content/fr/persons/_index.html"
   - permalink: "/presentation/"
     path: "/pages/presentation"
     slug: "presentation"
@@ -88,6 +89,10 @@ child_pages:
     path: "/pages/dernieres-editions"
     slug: "dernieres-editions"
     file: "content/fr/pages/dernieres-editions/_index.html"
+  - permalink: "/fichiers/"
+    path: "/files"
+    slug: "fichiers"
+    file: "content/fr/files/_index.html"
 
 summary: >-
   <p>Vous avez entre 11 et 25 ans ?</p><p>Réalisez un reportage sur un enjeu du développement durable et participez au concours JRE !</p>
